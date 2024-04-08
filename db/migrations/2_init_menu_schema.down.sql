@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS menuitems;
+DROP TABLE IF EXISTS menus;
